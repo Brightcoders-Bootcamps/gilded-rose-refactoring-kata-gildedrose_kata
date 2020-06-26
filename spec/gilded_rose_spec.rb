@@ -1,6 +1,6 @@
-require 'rspec'
-require 'test/unit/assertions'
-require './gilded_rose'
+# => require 'rspec'
+# => require 'test/unit/assertions'
+require_relative '../app/lib/gilded_rose'
 
 describe GildedRose do
 

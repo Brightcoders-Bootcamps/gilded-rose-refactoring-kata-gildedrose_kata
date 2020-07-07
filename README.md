@@ -4,6 +4,8 @@
 
 ![cover](img/cover.jpg)
 
+[![RubyCritic](badges/rubycritic_badge_score.svg)](tmp/rubycritic/overview.html)
+
 ## Pre-requisitos
 
 Antes de iniciar debes:
